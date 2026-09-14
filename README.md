@@ -29,13 +29,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Digitale
 - [Kinder und Jugendliche](#kinder-und-jugendliche)
 - [Vor Eintritt in ein Bachelorstudium](#vor-eintritt-in-ein-bachelorstudium)
 - [Vor Eintritt in ein Informatik- oder KI-Studium](#vor-eintritt-in-ein-informatik--oder-ki-studium)
-  - [Orientierung](#orientierung)
-  - [Schulischer Informatik- und KI-Stoff](#schulischer-informatik--und-ki-stoff)
-  - [Handwerkszeug](#handwerkszeug)
-  - [Web-Terminologie](#web-terminologie)
 - [Footer](#footer)
-  - [Mitwirkung](#mitwirkung)
-  - [Lizenz](#lizenz)
 
 <!-- tocstop -->
 
