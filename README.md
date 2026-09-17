@@ -15,7 +15,7 @@
 
 Dies ist mein digitaler Ressourcen-Pool für Informatik/KI **im Kinder- und Jugendlichenalter** bzw. **Schüler und Schülerinnen**! Entstanden an der [OTH Amberg-Weiden](https://www.oth-aw.de/cpn) in Bayern, welche für ein paar Einträge entsprechend den Kontext bildet.
 
-WICHTIG: Für Studierende? [Digitaler Ressourcen-Pool Informatik/KI](https://github.com/cyberlytics/awesome-basics) ⭐
+WICHTIG: Für **Studierende**? [Digitaler Ressourcen-Pool Informatik/KI](https://github.com/cyberlytics/awesome-basics) ⭐
 
 Die folgenden Listen enthalten **kostenlose** Online-**Materialien** sowie ausgewählte **Bücher**, letztere als kostenpflichtig/„(€)“ markiert aber auch per Bibliothek beziehbar. Diese Lernmaterialien dienen dem **Selbststudium** und zum Ausgleich von **heterogenen Vorkenntnissen**. Die kostenlosen Lernmaterialien sind nicht immer Best-in-Class im Vergleich zu kostenpflichtigen Alternativen, dennoch bleiben kostenpflichtige Angebote hier meist Out-of-Scope. Im Zweifelsfall ist die Auswahl subjektiv gefärbt durch mein Lehrgebiet „Big Data und Cloud-Computing für KI“.
 
