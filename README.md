@@ -144,6 +144,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Digitale
 		- Tablet: Amazon Fire HD Kids ⭐ → Steuerung? Android-App [Amazon Kids Parent Dashboard](https://play.google.com/store/apps/details?id=com.amazon.tahoe.grownups)
 		- Spielekonsole: Nintendo Switch ⭐ (bspw. [gebrauchte Switch Lite](https://www.amazon.de/s?k=nintendo+switch+lite+refurbished)) ⇒ Steuerung? Android-App [Nintendo Switch Parental Control](https://play.google.com/store/apps/details?id=com.nintendo.znma)
 		- Kinder-Smartwatch: [Xplora](https://myxplora.de/) ⭐ (häufig Rabatte im September)
+	- DumbPhones
+		- Marktübersicht: [Dumbphone Finder Tool](https://josebriones.org/dumbphone-finder)
+		- Beispiele: [boringphone](https://boringphone.com/), [Punkt. Minimalist Phone](https://www.punkt.ch/products/mp02-4g-minimalist-phone), [Easyfone Prime Seniorenhandy](https://www.amazon.de/s?k=Easyfone+Prime)
 	- Android Smartphones / Tablets:
 		- Einreichtung einer [Google Family](https://families.google/families/)
 		- Steuerung? Web-App [Family Link](https://familylink.google.com/) oder Android-App [Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink)
@@ -392,6 +395,8 @@ Beiträge sind herzlich willkommen. Bitte haltet euch an die Richtlinien für Be
 - Neue Kategorien oder Verbesserungen an der bestehenden Kategorisierung sind willkommen.
 
 Vielen Dank für deine Vorschläge!
+
+ABGRENZUNG: Bitte reiche nur Best-in-Class Software ein! Reiche KEINE neuen Projekte ein, nur um für diese zu werben!
 
 ### Lizenz
 
