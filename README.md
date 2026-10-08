@@ -140,6 +140,7 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Digitale
 	- Was meint "Parental Control"? Content Filtering, Screentime Limits, Schutz gegen ungewollte Bezahlungen, Datenschutz, Regel-Umgehungsschutz, ...
 	- OBACHT: Kindersicherung ist nur so gut wie ihre Umgehbarkeit! ⭐ (Kinder tauschen sich auf dem Schulhof über Umgehungsmöglichkeiten aus!)
 		- Abgrenzung: Kinderschutz ist kein Spionagesystem! Privatsphäre mit zunehmendem Alter erweitern; Regeln gemeinsam festlegen...
+	- Einstieg und Anleitungen: [Medien kindersicher](https://www.medien-kindersicher.de/) ⭐ (für ALLE relevanten Geräte und ALLE relevanten Dienste)
 	- Empfohlene Hardware:
 		- Tablet: Amazon Fire HD Kids ⭐ → Steuerung? Android-App [Amazon Kids Parent Dashboard](https://play.google.com/store/apps/details?id=com.amazon.tahoe.grownups)
 		- Spielekonsole: Nintendo Switch ⭐ (bspw. [gebrauchte Switch Lite](https://www.amazon.de/s?k=nintendo+switch+lite+refurbished)) ⇒ Steuerung? Android-App [Nintendo Switch Parental Control](https://play.google.com/store/apps/details?id=com.nintendo.znma)
@@ -152,23 +153,28 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Digitale
 		- Steuerung? Web-App [Family Link](https://familylink.google.com/) oder Android-App [Family Link](https://play.google.com/store/apps/details?id=com.google.android.apps.kids.familylink)
 		- Nennenswert: **gekaufte** Apps mit Kindern teilen? Geht per [Familienmediathek](https://play.google.com/store/family/create) ⭐
 		- Android Standardeinstellung "Privates DNS" ⇒ dort als "Private DNS provider hostname" eintragen: "family.adguard-dns.com" ⭐ (Kinderschutz inkl. Werbung/Tracker) oder "family-filter-dns.cleanbrowsing.org" (max. Kinderschutz, aber dafür mehr Werbung/Tracker)
+		- App-spezifische Anleitungen: [Medien kindersicher](https://www.medien-kindersicher.de/)
 	- iOS Smartphones / Tablets:
 		- Integrierte Kindersicherung (jeder Kinder-Account erhält eine eigene Apple-ID)
 		- Steuerung?  zentral über die Apple-Familienfreigabe
 		- OBACHT: iOS unterstützt nicht mehrere Benutzer auf einem Gerät! 🥺
 			- Implikation: Besser einen allg. Kinder-Account für alle Kinder im Haushalt gemeinsam erstellen.
+		- App-spezifische Anleitungen: [Medien kindersicher](https://www.medien-kindersicher.de/)
 	- Windows PCs / Laptops:
 		- Kinder-Account? Per Einstellungen → Konten → Familie, dann: Kind
 		- Steuerung? Web-App "[Microsoft Family Safety](https://family.microsoft.com/)" sowie Android-App [Microsoft Family Safety](https://play.google.com/store/apps/details?id=com.microsoft.familysafety)
 		- Inhaltsblocker (Adult/Werbung/Tracker) auf Systemeben: Open-Source [Zen Desktop](https://irbis.sh/zen) ⭐ oder [AdBlocker](https://adguard.com/en/adguard-windows/overview.html)
+		- App-spezifische Anleitungen: [Medien kindersicher](https://www.medien-kindersicher.de/)
 	- Linux PCs / Laptops:
 		- Distros? insbesondere [elementary OS](https://elementary.io/) ⭐, aber auch das brasilianische [BigLinux](https://www.biglinux.com.br/) (vgl. [BigLinux Parental-Controls](https://github.com/biglinux/big-parental-controls))
 			- Anmerkung: Es gibt viele Linux-Distros, die kinderfreundlich (i.S.v. edu-freundlich) sind, aber nur sehr wenige, die Kinderschutz integriert haben (Screentime Limits etc.)
 		- Inhaltsblocker (Adult/Werbung/Tracker) auf Systemeben: Open-Source [Zen Desktop](https://irbis.sh/zen)
+		- (Die Quelle "Medien kindersicher" hat ausnahmsweise für Linux PCs keine Anleitungen)
 	- MacOS PCs / Laptops:
 		- Kinder-Account? Per Systemeinstellungen → Familie, dann: Familienmitglied hinzufügen → Kinderaccount erstellen
 		- Steuerung? zentral über die Apple-Familienfreigabe
 		- Inhaltsblocker (Adult/Werbung/Tracker) auf Systemeben: Open-Source [Zen Desktop](https://irbis.sh/zen)
+		- App-spezifische Anleitungen: [Medien kindersicher](https://www.medien-kindersicher.de/)
 	- Altersstufen:
 		| Alter     | Schwerpunkt                                                                   |
 		| --------- | ----------------------------------------------------------------------------- |
@@ -378,6 +384,9 @@ Es gibt von mir die weiteren Schwesterseiten im Kontext Informatik/KI: [Digitale
 - Usenet: [Einsteiger Guide](https://github.com/PCJones/usenet-guide)
 - Kürzel nachschlagen (u.a. TLAs): [The Free Dictionary](https://acronyms.thefreedictionary.com/TLA)
 
+## Schwesterseiten
+
+Es gibt von mir weitere Schwesterseiten im Kontext Informatik/KI: [Digitaler Ressourcen-Pool](https://github.com/cyberlytics/awesome-basics), [Werkzeuge » Abschlussarbeiten](https://github.com/cyberlytics/awesome-thesis-tools), [Werkzeuge » Software-Engineering](https://github.com/cyberlytics/awesome-software-engineering-tools) und [Werkzeuge » Big Data und Cloud Computing für AI](https://github.com/cyberlytics/awesome-bdccai-tools) sowie [Agentic Engineering](https://github.com/cyberlytics/awesome-6GL).
 
 ## Footer
 
